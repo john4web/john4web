@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @john4web
 - 👀 I’m interested in frontend and backend web development
-- 🌱 I’m currently learning react.js, angular.js, spring and ruby on rails
+- 🌱 I’m currently learning react.js, angular.js, typescript, spring and ruby on rails
 - 💞️ I’m looking to collaborate on cool and innovative projects
 - 📫 How to reach me --> johannes-webdev.com/contact
